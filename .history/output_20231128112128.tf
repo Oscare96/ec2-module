@@ -1,0 +1,3 @@
+output "public_i" {
+  
+}
